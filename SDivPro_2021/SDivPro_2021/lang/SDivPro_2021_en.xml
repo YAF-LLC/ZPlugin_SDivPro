@@ -1,0 +1,41 @@
+<buttons>
+  <button path="ZPlugin:SDivPro">
+    <title text="SDivPro" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Target Polygons Count">
+    <title text="Target Polygons Count" trans=""/>
+    <info text="Target Polygons Count" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:AdaptiveSize">
+    <title text="AdaptiveSize" trans=""/>
+    <info text="AdaptiveSize" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Curves Strength">
+    <title text="Curves Strength" trans=""/>
+    <info text="Curves Strength" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Duplicate">
+    <title text="Duplicate" trans=""/>
+    <info text="Duplicate before ZRemesher" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Create Lowest Subdiv Resolution">
+    <title text="Create Lowest Subdiv Resolution" trans=""/>
+    <info text="Create Lowest Subdiv Resolution" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Max Subdiv Resolution">
+    <title text="Max Subdiv Resolution" trans=""/>
+    <info text="Max Subdiv Resolution" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Dist">
+    <title text="Dist" trans=""/>
+    <info text="Project All Scan distance" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Create Subdiv Resolutions">
+    <title text="Create Subdiv Resolutions" trans=""/>
+    <info text="Create Subdiv Resolutions" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:One-click operation">
+    <title text="One-click operation" trans=""/>
+    <info text="Perform commands above" trans=""/>
+  </button>
+</buttons>

@@ -1,0 +1,41 @@
+<buttons>
+  <button path="ZPlugin:SDivPro">
+    <title text="SDivPro" trans=""/>
+  </button>
+  <button path="ZPlugin:SDivPro:Target Polygons Count">
+    <title text="Target Polygons Count" trans="目標ポリゴン数"/>
+    <info text="Target Polygons Count" trans="Zリメッシュの適用時、目標のポリゴン数を指定します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:AdaptiveSize">
+    <title text="AdaptiveSize" trans="アダプティブサイズ"/>
+    <info text="AdaptiveSize" trans="アダプティブサイズを指定します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:Curves Strength">
+    <title text="Curves Strength" trans="カーブ強度"/>
+    <info text="Curves Strength" trans="カーブ強度を指定します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:Duplicate">
+    <title text="Duplicate" trans="複製"/>
+    <info text="Duplicate before ZRemesher" trans="サブツールを複製します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:Create Lowest Subdiv Resolution">
+    <title text="Create Lowest Subdiv Resolution" trans="最低SubDiv作成"/>
+    <info text="Create Lowest Subdiv Resolution" trans="最低サブディビジョンレベルを作成します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:Max Subdiv Resolution">
+    <title text="Max Subdiv Resolution" trans="最高SubDiv指定"/>
+    <info text="Max Subdiv Resolution" trans="最高サブディビジョンレベルを指定します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:Dist">
+    <title text="Dist" trans="距離"/>
+    <info text="Project All Scan distance" trans="全てのスキャン距離を投影します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:Create Subdiv Resolutions">
+    <title text="Create Subdiv Resolutions" trans="SubDiv作成"/>
+    <info text="Create Subdiv Resolutions" trans="サブディビジョンレベルを作成します"/>
+  </button>
+  <button path="ZPlugin:SDivPro:One-click operation">
+    <title text="One-click operation" trans="ワンクリック処理"/>
+    <info text="Perform commands above" trans="上記の処理をワンクリックで行います"/>
+  </button>
+</buttons>
