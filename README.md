@@ -29,6 +29,9 @@ Divide(subdivide)とProject Allについての設定部分です。こちらも�
 ## 導入方法
 [Release](https://github.com/n-taka/ZBrush_SDivPro/releases/tag/v1.0)からSDivPro_2021.zipをダウンロード後、展開した中身をZBrushのプラグインフォルダに移動してご利用ください。
 
+## ライセンス
+MITライセンス
+
 ## 連絡先
 [@kazutaka_nakash](https://twitter.com/kazutaka_nakash)
 
